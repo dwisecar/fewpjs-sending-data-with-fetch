@@ -123,7 +123,7 @@ configurationObject = {
 };
 ```
 
-### Add Headers
+### Add Headers 
 
 The second piece we need to include is some _metadata_ about the actual data we
 want to send. This metadata is in the form of [_headers_][headers]. Headers are
